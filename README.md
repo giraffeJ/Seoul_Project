@@ -19,3 +19,5 @@
 - 사용협업 플랫폼/툴 : GitHub, Trello, Postman, Zeplin
 
 ### 기획의도
+
+### PREVIEW
