@@ -2,7 +2,8 @@
 
 ### 서울시앱공모전 예선
 
-서울과 관련된 시, 사진을 함께 볼 수 있고, 각자의 추억을 가장 잘 남겨줄 수 있는 서비스
+서울의 사진과 작성한 시를 앱에 담을 수 있고, 다른 사람의 시와사진을 열람할 수 있는 서비스. 
+
 서울시 앱공모전 : [SeoulMobilePlatform](https://mplatform.seoul.go.kr/w/contest/award/2017/nominee/selectNominee.do)
 
 ### 개발자
