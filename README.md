@@ -21,3 +21,26 @@
 - 사용협업 플랫폼/툴 : GitHub, Trello, Postman, Zeplin
 
 ### PREVIEW
+
+
+메인 페이지
+
+<img src="./image/image/main.jpg" width="20%">
+
+
+
+글쓰기 페이지
+
+<img src="./image/image/writingPage1.jpg" width="20%"> <img src="./image/image/writingPage2.jpg" width="20%"> <img src="./image/image/writingPage3.jpg" width="20%">
+
+
+
+사진 페이지
+
+<img src="./image/image/picturePage.png" width="20%"> <img src="./image/image/pictureDetailPage.jpg" width="20%">
+
+
+
+시 페이지
+
+<img src="./image/image/peomDetailPage1.png" width="20%"> <img src="./image/image/poemDetailPage2.jpg" width="20%">
