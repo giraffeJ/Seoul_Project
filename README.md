@@ -20,6 +20,4 @@
 - 활용DB : 문화 행사카테고리 '시의 도시 서울' 소식(서울특별시 보유)
 - 사용협업 플랫폼/툴 : GitHub, Trello, Postman, Zeplin
 
-### 기획의도
-
 ### PREVIEW
