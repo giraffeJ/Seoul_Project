@@ -25,7 +25,7 @@
 
 메인 페이지
 
-<img src="./image/image/main.jpg" width="20%">
+<center> <img src="./image/image/main.jpg" width="20%"> </center>
 
 
 
